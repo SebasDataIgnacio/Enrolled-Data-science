@@ -1,0 +1,8 @@
+En el jupyter se encuentra el paso a paso de lo que se fue realizando. En este Readme voy a aclarar las columnas que se fueron creando.
+Posgrado: Columna obtenida atraves de un metodo ordinal, ya que se considera que un doctorado tiene mas categoria que una maestria, una maestria mas que una especializacion y una especializacion mas que una diplomatura
+Mes:Sacada de la columna fecha, nos indica en numeros el mes de la inscripcion.
+Dia:Sacada de la columna fecha, nos indica en numeros el mes de la inscripcion
+Cuatrimestre: Teniendo en cuenta la fecha/mes indica si es la primer o segunda parte del año
+Diasdesdeinsc: Indica el tiempo que paso en dias desde que se habilito la inscripcion.
+Diasantesdelcierre: Indica el tiempo faltante a que se de por cerrada la preinscripcion.
+Habilitado: Indica los dias que se encontro habilitado la preinscripcion.
