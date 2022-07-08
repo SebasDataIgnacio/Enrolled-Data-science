@@ -6,3 +6,13 @@ Cuatrimestre: Teniendo en cuenta la fecha/mes indica si es la primer o segunda p
 Diasdesdeinsc: Indica el tiempo que paso en dias desde que se habilito la inscripcion.
 Diasantesdelcierre: Indica el tiempo faltante a que se de por cerrada la preinscripcion.
 Habilitado: Indica los dias que se encontro habilitado la preinscripcion.
+
+........................................................................................................
+I’ve narrated step from step by step the Jupiter notebook. However, on this Readme I’m going to explain the new columns.
+Posgrado: This column was created from an ordinal method, because postgraduate degrees have less or more relevance.
+Mes: This column was created from the column Fecha. It shows the number of month
+Dia: This column was created from the column Fecha. It shows the number of day
+Cuatrimestre: It shows if it was on the firs o second part of the year.
+Diasdesdeinsc: Days since the open.
+Diasantesdelcierre: days after the close.
+Habilitado: Days meanwhile the enrolled was open.
