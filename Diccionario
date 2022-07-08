@@ -10,3 +10,18 @@ Email:Dato irrelevante, fue eliminado y cambiada de forma generica.
 Telefono:Dato irrelevante, fue eliminado y cambiada de forma generica.
 Sede:Indica en cual de las 2 sedes disponibles el interesado se anoto para cursar.
 Sexo,Residencia,titulo,Egreso,Universidad,Nacimiento,Posgrado fueron eliminadas por falta de datos.
+
+..............................................................
+I’ve created this Readme to explain columns on the Jupiter notebook.
+
+Identificacion: The real date was deleted, but it showed the real DNI.
+Apellido: The real date was deleted, but it showed the real surname.
+Nombre: The real date was deleted, but it showed the real name.
+Carrera_Indefinida:The real date was delated, but it keeps the type of postgraduate.
+Inscripcion:Date about the registration
+Documentacion: This is the Objetive variable. It shows if a enrolled send their documentation.
+Matricula: Irrelevant date
+Email: Irrelevant date
+Telefono: Irrelevant date.
+Sede: it shows what seat of a university the enrolled have chosen
+Sexo,Residencia,titulo,Egreso,Universidad,Nacimiento,Posgrado were deleted for less data.
