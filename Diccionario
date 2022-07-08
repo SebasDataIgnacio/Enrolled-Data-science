@@ -1,0 +1,12 @@
+Este Readme es creado para explicar las distintas columnas que componen el archivo Csv.
+Identificacion: El dato real fue eliminado y cambiado por numeros genericos, pero la columna mostraba los DNI.
+Apellido: El dato real fue eliminado, mostraba el/los apellidos del alumno.
+Nombre: El dato real fue eliminado, mostraba el/los nombres del alumno.
+Carrera_Indefinida: Los nombres reales fueron eliminados, pero mantienen el tipo de posgrado.
+Inscripcion: Muestra la fecha exacta donde el interesado se preinscribio.
+Documentacion: Es la variable objetivo, indica si el interesado envio o no envio la documentacion.
+Matricula: Dato irrelevante, indica si una vez enviada la documentacion, realizo el pago.
+Email:Dato irrelevante, fue eliminado y cambiada de forma generica.
+Telefono:Dato irrelevante, fue eliminado y cambiada de forma generica.
+Sede:Indica en cual de las 2 sedes disponibles el interesado se anoto para cursar.
+Sexo,Residencia,titulo,Egreso,Universidad,Nacimiento,Posgrado fueron eliminadas por falta de datos.
